@@ -1,0 +1,1 @@
+print("If you can read this message, Python3 works fine")
